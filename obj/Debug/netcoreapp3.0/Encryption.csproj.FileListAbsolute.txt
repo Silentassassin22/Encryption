@@ -1,0 +1,11 @@
+H:\VSProjects\source\repos\Encryption\bin\Debug\netcoreapp3.0\Encryption.exe
+H:\VSProjects\source\repos\Encryption\bin\Debug\netcoreapp3.0\Encryption.deps.json
+H:\VSProjects\source\repos\Encryption\bin\Debug\netcoreapp3.0\Encryption.runtimeconfig.json
+H:\VSProjects\source\repos\Encryption\bin\Debug\netcoreapp3.0\Encryption.runtimeconfig.dev.json
+H:\VSProjects\source\repos\Encryption\bin\Debug\netcoreapp3.0\Encryption.dll
+H:\VSProjects\source\repos\Encryption\bin\Debug\netcoreapp3.0\Encryption.pdb
+H:\VSProjects\source\repos\Encryption\obj\Debug\netcoreapp3.0\Encryption.csprojAssemblyReference.cache
+H:\VSProjects\source\repos\Encryption\obj\Debug\netcoreapp3.0\Encryption.AssemblyInfoInputs.cache
+H:\VSProjects\source\repos\Encryption\obj\Debug\netcoreapp3.0\Encryption.AssemblyInfo.cs
+H:\VSProjects\source\repos\Encryption\obj\Debug\netcoreapp3.0\Encryption.dll
+H:\VSProjects\source\repos\Encryption\obj\Debug\netcoreapp3.0\Encryption.pdb
